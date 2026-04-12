@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">365 Sport</string>
+    <string name="nav_live">Live</string>
+    <string name="nav_leagues">Leagues</string>
+    <string name="nav_news">News</string>
+    <string name="nav_following">Following</string>
+    <string name="sport_soccer">Soccer</string>
+    <string name="sport_basketball">Basketball</string>
+    <string name="empty_matches">No matches for this day.</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="error_network">Could not load data. Check your connection.</string>
+    <string name="match_details">Match details</string>
+    <string name="search_teams_hint">Search teams to follow</string>
+    <string name="search">Search</string>
+    <string name="add_follow">Follow</string>
+    <string name="following_empty">Follow teams to see their next fixtures here.</string>
+    <string name="news_empty">No headlines loaded.</string>
+    <string name="schedule_upcoming">Upcoming</string>
+    <string name="schedule_recent">Recent results</string>
+    <string name="content_desc_remove">Remove from following</string>
+</resources>
