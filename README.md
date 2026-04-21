@@ -1,6 +1,6 @@
-# 365 Sport
+# Sport App
 
-365 Sport is a comprehensive Android application designed for sports enthusiasts to stay updated with live scores, news, and league information for Soccer and Basketball.
+Sport App is a comprehensive Android application designed for sports enthusiasts to stay updated with live scores, news, and league information for Soccer and Basketball.
 
 ## 🚀 Features
 
